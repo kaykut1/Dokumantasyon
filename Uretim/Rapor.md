@@ -3,12 +3,14 @@
 
 Üretim planının odak noktası olan ürünlerin detaylı listesi, tanımları ve gereksinimlerini içerir.  
 Her bir ürün için, bileşen malzemelerin listesi ve bu malzemelerin miktarları belirtilir.  
-Ürünlerin üretiminde kullanılacak olan tüm malzemelerin listesi ve bu malzemelerin mevcut stok durumu ile talep edilen miktarları bulunur.   
+Üretimde kullanılacak olan tüm malzemelerin listesi ve bu malzemelerin mevcut stok durumu ile talep edilen miktarları bulunur.   
 Ayrıca, malzemelerin sipariş tarihleri ve teslimat süreleri de raporda yer alır.  
-Mevcut malzeme stoklarının detaylı bir analizi, mevcut stok miktarları, tedarik süreleri ve yeniden sipariş noktaları gibi bilgileri içerir.   
+Mevcut malzeme stoklarının detaylı bir analizi, mevcut stok miktarları, tedarik süreleri ve yeniden sipariş noktaları gibi bilgileri içerir.
+
 Bu bölüm, hangi malzemelerin ne zaman yeniden sipariş edilmesi gerektiğini belirlemek için kullanılır.  
 Hangi malzemelerin ne zaman sipariş edildiği, tedarikçi bilgileri ve beklenen teslimat tarihleri gibi bilgileri içerir.   
 Ayrıca, siparişlerin hangi aşamada olduğu ve beklenen tedarik durumu da raporda yer alır.  
+
 Ürünlerin üretim planı, üretim sürecinin zamanlaması ve üretim kapasitesi gibi bilgileri içerir.   
 Bu bölüm, işletmenin hangi ürünleri ne zaman üreteceğini ve hangi malzemelere ihtiyacı olduğunu gösterir.  
 Tüm verilerin özetlendiği ve analiz edildiği bir bölümdür. 
@@ -25,5 +27,5 @@ Burada, mevcut stok durumu, tedarik süreleri, üretim planı ve diğer önemli 
 
 - Üretim yapılırken her duraklama brüte eklenir. 
 - Her makineye ve her operasyona ayrı ayrı rapor oluşturulur.
-- Makine kaç gün çalıştı, makinelerin çalışma kapasitelerini görüntülenebilir.
+- Makinenin kaç gün çalıştığı ve makinelerin çalışma kapasiteleri görüntülenebilir.
 - [Rehber Nesnesi](../TemelOzellikler/RehberNesnesi.md) özelliğinde birden fazla seçim yapmak için listeden çoklu seçim yapabilirsiniz. Listeden Seç -> ctrl ile seçimlerinizi yapabilirsiniz.

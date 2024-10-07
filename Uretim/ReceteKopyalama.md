@@ -11,7 +11,7 @@ Bu sayede, yeni reçeteler oluştururken zaman kazanılır ve tutarlılık sağl
 
 İlk olarak, sistemde ilgili reçeteyi açalım;
 
-Üretim -> Taslak Reçete Listesi adımlarını takip ederek reçetemizi seçelim. Kopyalamak istediğimiz yarı mamulü belirleyip Kopyala diyelim. Yarı mamulümüz bu şekilde kopyalanmış olur.
+Üretim -> Taslak Reçete Listesi adımlarını takip ederek reçetemizi seçelim. Kopyalamak istediğimiz yarı mamulü belirleyip **Kopyala** diyelim. Yarı mamulümüz bu şekilde kopyalanmış olur.
 
 İkinci aşama olarak, aktarım yapacağımız ilgili reçeteyi açalım:
 

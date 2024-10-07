@@ -38,7 +38,7 @@ Makinelerimizden biri arıza verdiğinde yeni makine arıza kaydını girebiliri
 
 ### Tamir Plan Tarihi
 
-**Plan:** Tamirin planan tamir tarihini belirtmektedir.
+**Plan:** Tamirin planlanan tamir tarihini belirtmektedir.
 
 ### Tamir Bilgileri
 
@@ -80,10 +80,10 @@ Makinelerimizden biri arıza verdiğinde yeni makine arıza kaydını girebiliri
 
 **Tamamlanma Tipi:** 
 
-Herkes: Tüm kullanıcılar görevi yaptığında görev tamamlanmış olur.  
-	Herhangi Biri: Kullanıcılardan herhangi bir kişi görevi yaptığında ,görev tamamlanmış olur.
-	
-**Tekrar Şekli:** Görev ne kadar sürede tekrar edecek onu seçelim. Tekrar yok, günlük, haftalık, aylık, yıllık seçeneklerinden yapmak istediğimiz tekrar aralığını seçelim.        
+*Herkes:* Tüm kullanıcılar görevi yaptığında görev tamamlanmış olur.  
+	*Herhangi Biri:* Kullanıcılardan herhangi bir kişi görevi yaptığında ,görev tamamlanmış olur.
+	     
+*Tekrar Şekli:* Görev ne kadar sürede tekrar edecek onu seçelim. Tekrar yok, günlük, haftalık, aylık, yıllık seçeneklerinden yapmak istediğimiz tekrar aralığını seçelim.        
 
 Ayda bir bakım yaptırmak istediğimizde, tekrar aralığını Aylık olarak seçiyoruz.
 Aylık 1 seçeneğini işaretliyoruz ve bakımın ayın son günü mü yoksa ilk günü mü yapılacağını belirliyoruz.  

@@ -22,9 +22,9 @@ SayfaTipi: Hareket
 
 **Belge No:** İşlemi yapacağımız belgenin numarasını ifade eder.
 
-**Kaynak Depo:** Ham maddenin şuan bulunduğu depoyu seçelim.
+**Kaynak Depo:** Ham maddenin şu an bulunduğu depoyu seçelim.
 
-**Şirket-Şube:** Ham maddenin gönderim sağlanacağı şirket-şubeyi ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
+**Şirket-Şube:** Ham maddenin gönderiminin sağlanacağı şirket-şubeyi ifade eder. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeHareket.md)
 
 **Hedef Depo:** Ham maddeyi göndereceğimiz depoyu seçebiliriz.
 
@@ -34,7 +34,7 @@ SayfaTipi: Hareket
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise Kaydettiğimiz projeyi buradan seçebiliriz.
+**Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçebiliriz.
 
 **Plasiyer:** Plasiyer, bir şirketin ürün veya hizmetlerini belirli bir bölgede tanıtan ve satan saha satış temsilcisidir. 
 
@@ -73,13 +73,13 @@ Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOz
 
 **Depo:** Ham maddenin şu an bulunduğu depoyu seçiniz.
 
-**Açıklama:** İşleme ait özel açıklamalar veya notlar varsa buraya girebilirsiniz. Detaylar için Açıklama linkine tıklayabilirsiniz. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama:** İşleme ait özel açıklamalar veya notlar varsa buraya girebilirsiniz. Detaylar için açıklama linkine tıklayabilirsiniz. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 **Vergiler:** Stok seçtiğimizde o stoğa ait KDV Oranlarını özel istisna Muafiyet ekleyecebileceğimiz alandır.
 
 ### Detay
 
-**Proje:** İşleme ait proje var ise *Kaydet*tiğimiz projeyi buradan seçelim.
+**Proje:** İşleme ait proje var ise kaydettiğimiz projeyi buradan seçelim.
 
 **Plasiyer:** Plasiyer, bir şirketin ürün veya hizmetlerini belirli bir bölgede tanıtan ve satan saha satış temsilcisidir. 
 	Müşterilerle doğrudan iletişim kurarak sipariş alır, ürünlerin tanıtımını yapar ve satış hacmini artırmaya çalışır. 
@@ -98,7 +98,7 @@ Etiketler kullanım detayları için linke tıklayınız. [Etiketler](../TemelOz
 
 ### Kayıt Bilgileri
 
-Burada işlemi kimin ve hangi tarihte gerçekleştirdiği detayları görüntüleyebiliriz.
+Burada işlemi kimin, hangi tarihte gerçekleştirdiği detaylarını görüntüleyebiliriz.
 Kim tarafından oluşturuldu, oluşturulma tarihi, onay durumu, değiştiren, değiştirme tarihi detaylarına ulaşım sağlayabiliriz.
 
 
@@ -118,21 +118,21 @@ Ham maddelerin stok girişlerini tamamlayıp, bilgilerimizin kontrollerini yapt�
 
 **İskonto Oranı:** İndirim yapacağımız iskonto oranını girelim.
 
-**Net Fiyat:** Brüt fiyata isokontonun uygulanmış fiyatıdır.
+**Net Fiyat:** Brüt fiyata iskontonun uygulanmış fiyatıdır.
 
-**Tutar:** Miktar ve net tutarın çarpılarak elde edilen değerdir.
+**Tutar:** Miktar ve net tutarın çarpılarak elde edilen değeridir.
 
-**Depo:** Bu işlemin kullanıldığı depoyu ifade eder.
+**Depo:** Bu işlem için kullanılan depoyu ifade eder.
 
 **Hangi Cari için:** Bu işlemin hangi cari için yapıldığını belirtir.
 
 **Hangi Demirbaş için:** Bu işlemin hangi demirbaş için yapıldığını belirtir.
 
-**Hangi Dekont için** Bu işlemin hangi dekont için yapıldığını belirtir.
+**Hangi Dekont için:** Bu işlemin hangi dekont için yapıldığını belirtir.
 
-**Masraf Merkezi** Bu işlemin hangi masraf merkezi için yapıldığını belirtir.
+**Masraf Merkezi:** Bu işlemin hangi masraf merkezi için yapıldığını belirtir.
 
-**Açıklama:**İşleme ait özel açıklamamız notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama:** İşleme ait özel açıklamamız, notlarımız varsa burada belirtebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 **Vergiler:** Seçilen stoğa ait KDV oranlarını ve Özel İstisna ya da Muafiyet durumlarını ekleyebileceğiniz alandır.
 

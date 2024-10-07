@@ -20,11 +20,11 @@ Operasyon makine eşleştirmesi yapılırken, hangi operasyonun hangi makine üz
 Bu, operasyonların zamanında ve doğru bir şekilde tamamlanmasını sağlayarak üretim sürecinin verimliliğini artırır.
 Bu süreç genellikle üretim planlaması ve iş emri yönetimi süreçleriyle entegre edilir ve operasyonların gereksinimlerine uygun makinelerin atanmasını sağlar. 
 
-## Yeni - Operasyon - Makine Eşleştirme
+## Yeni  Operasyon - Makine Eşleştirme
 
-**Operasyon** Eşleştirme yapacağımız operasyonu seçiniz.
-**Makine** Operasyonla eşleştireceğimiz makineyi seçelim.
-**Öncelik** Operasyonun öncelik aşamasının sıralamasını giriniz.
+**Operasyon:** Eşleştirme yapacağımız operasyonu seçiniz.
+**Makine:** Operasyonla eşleştireceğimiz makineyi seçelim.
+**Öncelik:** Operasyonun öncelik aşamasının sıralamasını giriniz.
 
 ## Kaydetme ve Silme
 
@@ -35,7 +35,7 @@ Bu süreç genellikle üretim planlaması ve iş emri yönetimi süreçleriyle e
 
  Sayfanın sağ üst köşesinde bulunan, alt alta üç çizgi şeklindeki düğme ile ek işlemlere erişebilirsiniz.
 
- Operasyonda bulunan kısayollar sekmesi ile operasyona ile makine eşleştirme listesine erişim sağlayabilir, yeni eşleştirme yapabiliriz.
+ Operasyonda bulunan kısayollar sekmesi ile operasyon ile makine eşleştirme listesine erişim sağlayabilir, yeni eşleştirme yapabiliriz.
  Eşleştirilmiş makine ve operasyonlar listesini görüntüleyebiliriz.
 - [Ana Sayfaya Kısayol Olarak Ekle](../TemelOzellikler/KisaYollaraEkleme.md)
 - ................

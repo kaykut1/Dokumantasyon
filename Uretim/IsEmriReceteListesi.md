@@ -21,7 +21,7 @@ Bir iş emri, belirli bir üretim görevinin veya işin tamamlanması için gere
 Üretilecek ürün veya parça kodu ve kısa bir tanımı, üretim miktarıyla birlikte iş emrinde yer alır. 
 İşin ne zaman başlayacağı ve ne zaman tamamlanacağı, yani başlama ve bitiş tarihleri belirtilir.
 
-İş emri, üretim için gerekli tüm malzemelerin detaylı [reçete Diyagram](../Uretim/ReçeteDiyagram.md)larını içerir.  
+İş emri, üretim için gerekli tüm malzemelerin detaylı [reçete diyagram](../Uretim/ReçeteDiyagram.md)larını içerir.  
 Üretim sürecindeki her adımın ayrıntılı tanımı yapılır; bu adımlar arasında hangi makinelerin kullanılacağı ve her bir adımın ne kadar süreceği belirtilir.  
 Ayrıca, üretimde kullanılacak makine ve ekipmanlar da listelenir. Gerekli iş gücü, işçilerin nitelikleri ve çalışacakları vardiyalar da iş emrinde belirtilir.  
 Örneğin, metal bir parçanın üretimi için oluşturulan bir iş emrinde, kesim, delme, montaj ve boyama gibi adımlar detaylandırılır. 
@@ -46,7 +46,7 @@ Her adımın süresi ve kullanılacak makineler belirtilir.
 
 ## Yeni Reçete Taslağı Ekle
  
-İş emirleri reçeteleri listesi ekranında sağ üst köşede yer alan Yeni Reçete Taslağı Ekle diyerek erişim sağlayabiliriz.
+İş emirleri reçeteleri listesi ekranında sağ üst köşeden Yeni Reçete Taslağı Ekle diyerek erişim sağlayabiliriz.   
 Yeni reçete taslağımızı oluşturarak üretim planımıza başlayabiliriz. 
 Reçetemizi oluşturduktan sonra iş emri vererek üretim aşamamıza başlayabiliriz.
 Yeni Reçete Taslağı Ekleme detaylarına erişim sağlamak için tıklayınız. [Yeni Reçete Taslağı Ekle](../Uretim/YeniReceteTaslagiEkle.md)

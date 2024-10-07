@@ -13,8 +13,7 @@ SayfaTipi: Liste
 
 ## Tanım
 
-Belirli bir üretim döneminde üretilen ürünleri takip eden bir kayıttır.  
-Bu liste; iş emri numarası, reçete adı, üretim tarihi, miktar, birim, operasyon ve makine adı gibi bilgileri içerir.   
+Belirli bir üretim döneminde üretilen ürünleri takip eden bir kayıttır.  Bu liste; iş emri numarası, reçete adı, üretim tarihi, miktar, birim, operasyon ve makine adı gibi bilgileri içerir.   
 Amaç; stok yönetimi, üretim planlaması ve kalite kontrolü sağlamaktır.  
 
 Örneğin; Ürün A, 25.05.2024 tarihinde kesim operasyonunda üretilmişse, hazırlık süresi, duraklama nedeni gibi detayları görüntüleyebilirsiniz.       

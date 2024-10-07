@@ -14,7 +14,7 @@ SayfaTipi: Liste
 ## Tanım
 
 **Üretim Hareketi Kullanılan Ham Madde Listesi**, üretim sürecinde kullanılan ham maddelerin takibini sağlar.  
-Bu listede ham madde kodu, adı, kullanım tarihi, miktar, birim, operasyonu gibi bilgiler yer alır.  
+Bu listede ham madde kodu, adı, kullanım tarihi, miktar, birim, operasyon gibi bilgiler yer alır.  
 **Ham madde kodu,** her ham madde için benzersiz bir tanımlama sağlar ve karışıklığı önler.    
 **Ham madde adı,** hangi ham maddenin kullanıldığını belirtir. 
 **Kullanım tarihi,** ham maddenin hangi tarihte kullanıldığını gösterir ve stok takibi için önemlidir.   

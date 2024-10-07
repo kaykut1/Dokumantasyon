@@ -18,9 +18,10 @@ SayfaTipi: PlanDetay
 Üretim planı, bir işletmenin üretim yapacağı ürünleri, kullanılacak ham madde miktarını, üretim sürecinin zamanlamasını ve kaynak dağılımını içeren bir planlama belgesidir.   
 Bu plan, üretim sürecinin verimli bir şekilde yönetilmesini sağlar ve işletmenizin hedeflerine ulaşmasına yardımcı olur.
 
-Burada planlamalarda değişiklik yapmak için sürükleyerek kolayca değişiklik yapabiliriz.  
+Burada, planlamalarda değişiklik yapmak için sürükleyerek kolayca değişiklik yapabiliriz.  
 Üretim süreçlerinin ne zaman ve hangi sırayla gerçekleşeceğini görüntüleyebiliriz.   
 Makine ve iş gücü gibi kaynakların en verimli şekilde kullanılması hedeflenir.  
+
 Üretim planında, üretim planınızı görüntüleyerek üretim planlamalarınızı yapabilirsiniz.  
 Makine doluluk oranını görüntüleyebilir, iş yükünü değerlendirerek yeni düzenlemeler yapabilirsiniz.
 

@@ -8,7 +8,7 @@ Operasyon çıktıları, üretim aşamalarının tek tek her süreç için olmas
 
 **İş emrinde her bir operasyonu tek tek almak için;**
 
-- İşlem yapmak istediğiniz iş emrinin yanındaki büyüteçe tıklayınız,
+- İşlem yapmak istediğiniz iş emrinin yanındaki büyütece tıklayınız,
 - Açılan pencerenin en alt kısmında kutucuklar yer almaktadır. 
 
 - **Kırmızı**, üretime başlanmamış iş emrini ifade eder.

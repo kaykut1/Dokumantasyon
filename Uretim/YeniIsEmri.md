@@ -14,11 +14,11 @@
 
 **Reçete:** Yapılacak olan reçeteyi seçiniz.
 
-**İş Emri Adı:** İş emri için bir ad verebilirsiniz.
+**İş Emri Adı:** İş emri için bir ad veriniz.
 
 **Miktar:** Kaç adet yapılacağını giriniz.
 
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama:** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 ### Gelişmiş
 

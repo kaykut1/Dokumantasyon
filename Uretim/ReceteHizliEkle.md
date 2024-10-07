@@ -16,7 +16,7 @@ Bu, malzemelerin başlangıçtan bitişe kadar izlediği yolu belirtir.
 
 - Oklar ve bağlantı çizgileri, operasyon adımları arasındaki sıralamayı ve yönü gösterir. Bu, her adımın hangi sırayla ve nasıl yapılacağını belirler.
 
-- Üretim sürecinin sonunda elde edilen nihai ürün veya mamul ***bordo** renkli gösterir. Bu, üretim sürecinin tamamlandığı ve ürünün hazır olduğu noktadır.
+- Üretim sürecinin sonunda elde edilen nihai ürün veya mamul **bordo** renkli gösterir. Bu, üretim sürecinin tamamlandığı ve ürünün hazır olduğu noktadır.
 
 Diyagram sayfasından ham madde, mamul, operasyon süreçlerinde değişiklik yapabilirsiniz ya da hızlı düzeltmeleri tercih edebilirsiniz.
 
@@ -28,7 +28,7 @@ Diyagram sayfasından ham madde, mamul, operasyon süreçlerinde değişiklik ya
 
 # Hızlı Düzelt
 
-Diyagramda görünen reçetelerin listeli bir şekilde miktar, fiyat, toplam maliyetlerini görüntüleyebilir burada hızlı iş emri değişiklikleri yabilirsiniz.  
+Diyagramda görünen reçetelerin listeli bir şekilde miktar, fiyat, toplam maliyetlerini görüntüleyebilir, burada hızlı iş emri değişiklikleri yapabilirsiniz.  
 Reçeteyi Hızlı Düzelt, ürün reçetelerinde yapılan hataların veya değişiklik gereksinimlerinin hızlı bir şekilde tespit edilip düzeltilmesi sürecidir.   
 Bu süreç, üretim verimliliğini artırmak, hatalı üretimin önüne geçmek ve malzeme yönetimini optimize etmek amacıyla gerçekleştirilir.  
 Üretim sırasında veya öncesinde, malzeme eksikliği, yanlış parça kullanımı veya operasyon değişiklikleri gibi nedenlerle reçetede bir hata veya güncelleme ihtiyacı tespit edilebilir.  
@@ -36,7 +36,7 @@ Bu süreç, üretim verimliliğini artırmak, hatalı üretimin önüne geçmek 
 
 ## Ulaşım 
 
-- Sol menüden *Üretim -> Listeler -> İş Emri Listesi -> İşlem yapacağımız iş emrini seçelim -> Hızlı Düzelt* şeklinde ulaşım sağlayabiliriz.
+- Sol menüden *Üretim -> Listeler -> İş Emri Listesi ->* İşlem yapacağımız iş emrini seçelim *-> Hızlı Düzelt* şeklinde ulaşım sağlayabiliriz.
 
 ## Reçeteyi Hızlı Düzelt 
 
@@ -54,7 +54,7 @@ Bu ekranda hızlı düzelt başlığında yapabildiğimiz işlemlerin aynıları
 
 ## Ulaşım
 
-- Sol menüden *Üretim -> Listeler -> İş Emri Listesi -> İşlem yapacağmız iş emrini seçelim -> Hızlı Düzelt2* şeklinde ulaşım sağlayabiliriz.
+- Sol menüden *Üretim -> Listeler -> İş Emri Listesi ->* İşlem yapacağmız iş emrini seçelim *-> Hızlı Düzelt2* şeklinde ulaşım sağlayabiliriz.
 
 ## Reçeteyi Hızlı Düzelt2
 
@@ -70,7 +70,7 @@ Ham maddelerde son alış fiyatı, son mamul fiyatı, alış liste fiyatını g�
 
 Bu seçenek ile iş emri ekranına dönerek iş emrinizi görüntüleyebilirsiniz.
 
-### Plana Gİt 
+### Plana Git 
 
 Üretim planı ekranına yönlendirir, buradan üretim planlamalarınızı görüntüleyebilirsiniz.
 

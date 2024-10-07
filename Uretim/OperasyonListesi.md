@@ -28,23 +28,25 @@ Operasyon listesiyle makinaların eşleştirmesi sağlanmaktadır.
 
 #### Genel
 
-**Operasyon Kodu** Sistemin vermiş olduğu otomatik kodu kullanabilir ya da kendi kodunuzu girebilirsiniz.
+**Operasyon Kodu:** Sistemin vermiş olduğu otomatik kodu kullanabilir ya da kendi kodunuzu girebilirsiniz.
 
-**Operasyon Adı** Yapılacak operasyonun adını buraya giriniz.
+**Operasyon Adı:** Yapılacak operasyonun adını buraya giriniz.
 
-**Kodlar** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
+**Kodlar:** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
-**Etiketler** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
+**Etiketler:** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 #### Eşleşmiş Makine Listesi
 
 **Şirket-Şube:** Kartın ait olduğu şirket ve şubeyi belirtir. Şirket-Şube kullanım detayları için linke tıklayınız. [Şirket-Şube](../TemelOzellikler/SirketSubeKart.md)
 
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama:** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**Hız Birim** Operasyonun birim, adet, metre, metrekare, gram, litre gibi birimini seçiniz.
+**Hız** 
 
-## *Kaydet* butonuna basarak makine tanımalama işlemiminiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
+**Birim:** Operasyonun birim, adet, metre, metrekare, gram, litre gibi birimini seçiniz.
+
+## *Kaydet* butonuna basarak makine tanımlama işlemiminiz tamamlanır, belgeler ve notlar ekranına ulaşım sağlarız.
 ## Görev oluşturabilir, görev bağlayabiliriz.
 
 ### Belgeler

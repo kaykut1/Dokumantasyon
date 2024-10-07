@@ -18,7 +18,7 @@ Makine, bir ürünün veya bileşenin üretiminde kullanılan herhangi bir ekipm
 Üretim makineleri, üretim hattında farklı işlevlere sahip olabilir; 
 Bazıları ham maddeleri işleyebilir, bazıları montaj yapabilir, bazıları test edebilir ve diğerleri ise ambalajlama gibi son işlemleri gerçekleştirebilir.
 
-Üretimde makineler üretim aşamaların izlenmesi, takip edilmesi, iş emirleri akışı, planlamalar, işin maliyet hesaplamaları gibi detaylar için her verilerin girilmesi gereklidir.  
+Üretimde makineler, üretim aşamalarının takip edilmesi, iş emirleri akışı, planlamalar, işin maliyet hesaplamaları gibi detaylar için tüm verilerin girilmesi gereklidir.  
 Bunlar arasında, iş emirleri akışı, planlamalar, maliyet hesaplamaları, arıza süreleri, bakım süreleri, makine kullanımı ve üretim performansı gibi detaylar yer alır.  
 Bu verilerin doğru ve güncel olarak kaydedilmesi, işletmenin üretim sürecini etkili bir şekilde yönetmesine ve planlamasına yardımcı olur.
 
@@ -45,13 +45,13 @@ Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleşt
 
 #### Konum 
 
-**Bölüm Adı:** Kayıtlardan seçebilir ya da detaylı ekle yaparak ekleme sağlayabilirsiniz.
+**Bölüm Adı:** Kayıtlardan seçebilir ya da detaylı ekle yaparak ekleyebilirsiniz.
 
-**X Konumu:** Fabrika da makinenin x eksenindeki konumunu giriniz.
+**X Konumu:** Fabrikada makinenin x eksenindeki konumunu giriniz.
 
-**Y Konumu:** Fabrika da makinenin y eksenindeki konumunu giriniz.
+**Y Konumu:** Fabrikada makinenin y eksenindeki konumunu giriniz.
 
-**Z Konumu:** Fabrika da makinenin z eksenindeki konumunu giriniz.
+**Z Konumu:** Fabrikada makinenin z eksenindeki konumunu giriniz.
 
 #### Ölçüler 
 
@@ -67,7 +67,7 @@ Ayrıca, üretim makinelerine cihazlar takılarak, bu süreçlerin otomatikleşt
 
 **Tip** 
 
-**Açıklama** Reçeteye ait detay açıklaması eklemesi yapabilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
+**Açıklama** Reçeteye ait detay açıklaması ekleyebilirsiniz. Açıklamalar hakkında detaylı bilgiler için tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
 **Demirbaş**
 

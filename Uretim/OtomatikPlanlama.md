@@ -1,9 +1,8 @@
 
 # Otomatik Planlama
 
-Otomatik planlama istem tarafından kullanılacak olan verilerin toplanmasıyla başlar.
-Veriler üretim planı, stok seviyeleri, tedarikçi bilgileri, talep tahminleri gibi çeşitli kaynaklardan gelir. 
-Veriler daha sonra analiz edilir ve işlenir.  
+Otomatik planlama istem tarafından kullanılacak olan verilerin toplanmasıyla başlar.   
+Veriler üretim planı, stok seviyeleri, tedarikçi bilgileri, talep tahminleri gibi çeşitli kaynaklardan gelir; daha sonra analiz edilir ve işlenir.  
 Otomatik planlama süreci, üretilecek ürünlerin bileşenlerini, her bir ürün için hangi malzemelerin gerektiğini, bu malzemelerin hangi tedarikçilerden temin edileceği gibi bilgileri belirler.  
 Mevcut makine ve işgücü kapasiteleri göz önüne alınarak, belirli bir zaman diliminde hangi ürünlerin ne kadarının üretilebileceğini hesaplar.  
 Otomatik planlama işlem süresi için takvim - personel kartıyla eşleştirir. 

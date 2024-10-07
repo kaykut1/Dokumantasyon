@@ -14,7 +14,7 @@ SayfaTipi: KartListe
 
 ### Tanım
 
-Üretim [terminal](../Uretim/Terminal.md)i makine eşleştirme, üretim süreçlerinde verimliliği artırmak amacıyla makine ve ekipmanların üretim hattındaki uygun görevlerle eşleştirilmesi işlemidir.   
+[Üretim terminali](../Uretim/Terminal.md) makine eşleştirme, üretim süreçlerinde verimliliği artırmak amacıyla makine ve ekipmanların üretim hattındaki uygun görevlerle eşleştirilmesi işlemidir.   
 Çeşitli üretim aşamalarında kullanılan makinelerin yetenekleri, kapasiteleri ve işlevlerine göre optimize edilmesini sağlar.  
 Burada daha önceden eşleştirdiğimiz terminal - makine eşleştirmelerimizi görüntüleyebiliriz.
 

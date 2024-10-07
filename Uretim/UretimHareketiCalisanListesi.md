@@ -15,10 +15,11 @@ SayfaTipi: Liste
 
 Üretim Hareketi Çalışan Personeller Listesi, üretim sürecinde görev alan personelin takibini sağlar.  
 Bu listede personel iş emri numarası, görev tarihi, görev aldığı operasyon gibi bilgiler yer alır.   
-Görev tarihi, personelin hangi tarihte görev aldığını gösterir ve iş takibi için önemlidir.   
-Operasyonda çalıştığı süreler, personelin ne kadar süre durakladığı, ne kadar süre çalıştığını belirtir.  
-Operasyon, personelin hangi operasyonda veya makinede çalıştığını gösterir.   
-Performans durumu, personelin iş performansını ve verimliliğini değerlendirmek için kullanılır (başarılı, yetersiz vb).   Açıklamalar bölümü, personelle ilgili ek bilgiler veya özel durumlar hakkında bilgi sağlar.
+-Görev tarihi, personelin hangi tarihte görev aldığını gösterir ve iş takibi için önemlidir.   
+-Operasyonda çalıştığı süreler, personelin ne kadar süre durakladığı, ne kadar süre çalıştığını belirtir.  
+-Operasyon, personelin hangi operasyonda veya makinede çalıştığını gösterir.   
+-Performans durumu, personelin iş performansını ve verimliliğini değerlendirmek için kullanılır (başarılı, yetersiz vb).       
+ -Açıklamalar bölümü, personelle ilgili ek bilgiler veya özel durumlar hakkında bilgi sağlar.
 
 Bu liste, insan kaynakları yönetimi, üretim planlaması ve performans değerlendirmesi açısından kritiktir.  
 Örneğin; Personel A, 25 Mayıs 2024'te Operasyon 1'de operatör olarak çalışmış ve her zamankinden daha kısa bir sürede iş çıkarmış, performansı başarılı olarak değerlendirilmiştir.  

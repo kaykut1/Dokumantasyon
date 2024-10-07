@@ -34,7 +34,7 @@ Reçetemizi oluşturduktan sonra iş emri vererek üretim aşamamıza başlayabi
 
 **Kodlar:** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Kodlar hakkında detaylı bilgiler için tıklayınız. [Kodlar](../TemelOzellikler/Kodlar.md)
 
-**Etiketler:** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanılanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
+**Etiketler:** Reçeteyi gruplamak ve sonrasında gruplu rapor alabilmek için kullanabilirsiniz. Etiketler hakkında detaylı bilgiler için tıklayınız. [Etiketler](../TemelOzellikler/Etiketler.md)
 
 **Döviz:** Bu işleme ait döviz birimini seçiniz.
 
@@ -62,11 +62,11 @@ Hazırladığınız reçetede üretmek istediğiniz mamulün bilgilerini ifade e
 
 ### Operasyon Bilgileri
 
-**Operasyon:** Operasyon makinemizi seçelim. Yeni bir operasyon eklemek için Detaylı Ekleyerek ekleme yapabiliriz.
+**Operasyon:** Operasyon makinemizi seçelim. Yeni bir operasyon eklemek için **Detaylı Ekle** ile ekleme yapabiliriz.
 
 **Makine:** Operasyonda kullanılacak makineyi ifade eder. Kullanacağınız makineyi seçiniz, makine kayıtlı değil ise detaylı ekle yaparak ekleme yapabiliriz.
 
-**İşci Adedi:** Operasyonda çalışacak işçi sayısını belirtir, bu opersayonda kaç işçi çalışacaksa sayısını girelim.
+**İşci Adedi:** Operasyonda çalışacak işçi sayısını belirtir, bu operasyonda kaç işçi çalışacaksa sayısını girelim.
 
 **Hazırlık Süre:** Makinenin ısınması gibi süreçleri ifade eder.
 

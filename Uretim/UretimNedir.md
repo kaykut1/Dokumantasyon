@@ -25,24 +25,24 @@ Ekonomik büyüme, istihdam yaratma ve yaşam standartlarının yükseltilmesi a
 Modül Sayfasında, hareket ekleme, listeler, raporlar ve üretim hareketlerine kolayca ulaşım sağlayabilirsiniz.
 
 
-Üretim modülü, ürünlerin üretim süreçlerini, aşamalarını planlamak, yönetmek ve izlemek için kullanılır.
-Üretim sürecinin başlangıçını reçete oluşturmaktadır. 
+Üretim modülü, ürünlerin üretim süreçlerini, aşamalarını planlamak, yönetmek ve izlemek için kullanılır.   
+Üretim sürecinin başlangıcını reçete oluşturmaktadır. 
 
-[Reçete](../Uretim/Recete.md) bir ürünün yapımında kullanılan malzemenin ve bu malzemlerin hangi oranlarda ve nasıl kullanılacağının belirtildiği bir belgedir.
+[Reçete](../Uretim/Recete.md) bir ürünün yapımında kullanılan malzemenin ve bu malzemelerin hangi oranlarda ve nasıl kullanılacağının belirtildiği bir belgedir.
 
 [Makine](../Uretim/MakineListesi.md) bir üretim tesisinde kullanılan herhangi bir makineyi ifade eder, ürünün veya bileşenin üretiminde kullanılan herhangi bir ekipman olabilir.   
 Üretim makineleri, üretim hattında farklı işlevlere sahip olabilir;   
 bazıları ham maddeleri işleyebilir, bazıları montaj yapabilir, bazıları test edebilir ve diğerleri ise ambalajlama gibi son işlemleri gerçekleştirebilir.
 
-[Operasyon](../Uretim/OperasyonListesi.md) bir üretim sürecinin belirli bir aşamasında gerçekleştirilen belirli bir faaliyetti 
+[Operasyon](../Uretim/OperasyonListesi.md) bir üretim sürecinin belirli bir aşamasında gerçekleştirilen belirli bir faaliyettir.
 Operasyon, ham maddelerin işlenmesi, parçaların montajı, ürünlerin test edilmesi gibi çeşitli işlemleri içerebilir.   
 Operasyonlar genellikle belirli bir ürün veya hizmetin üretimini tamamlamak için gerekli adımları içeren bir operasyonel planın parçasıdır.
 
-Reçeler, Makineler ve Operasyonlar hazırlandıktan sonra ikinci aşama iş emridir.
+Reçeler, Makineler ve Operasyonlar hazırlandıktan sonra ikinci aşama, iş emridir.
 
 [İş Emri](../Uretim/IsEmri.md) bir işin yapılması için çalışanlara veya birimlere verilen talimatlardır. 
 İş emri bir işin ne zaman, nerede, nasıl ve kim tarafından yapılacağını belirtir.
-Her bir operasyon ve ürünler(reçeteler) iş emrinde aşamalı olarak yer alması gerekmektedir.
+Her bir operasyon ve ürünün(reçeteler) iş emrinde aşamalı olarak yer alması gerekmektedir.
 
 İş emirleri tamamlandıktan sonraki aşama planlama aşamasıdır.
 

@@ -33,7 +33,7 @@ Devam etmek istediğiniz işi seçerek canlı üretim terminalini başlatabilirs
 
 ### Üretim Planı
 
-Bu bölümde, otomatik olarak planlanan veya yaptığımız üretim planlamalarını görüntüleyebiliriz. İşleme başlamak istediğimiz operasyonu seçerek işleme başlayabiliriz.
+Bu bölümde, otomatik olarak planlanmış olan veya bizim yaptığımız üretim planlamalarını görüntüleyebiliriz. İşleme başlamak istediğimiz operasyonu seçerek işleme başlayabiliriz.
 
 Başlangıç Tarihi, Bitiş Tarihi, Aktiflik, Sipariş Hareketi, Stok, İş Emri gibi seçeneklerle filtreleme yaparak istediğimiz verilere kolayca ulaşabiliriz.
 
@@ -53,7 +53,7 @@ Personel, Sipariş Hareketi, Stok, İş Emri, Operasyon, Makine, Reçete, Son Op
 
 **Durakla:** Makine arıza verdiğinde ya da duraklamanız gereken bir durum olduğunda bu butona basarak durma işlemini aktif hale getirmiş olursunuz. Bu butona bastığınızda bir neden ekranı çıkar; durma nedeninizi (örneğin, makine arızası gibi) girmeniz gerekmektedir.
 
-**Mola Ver:** Bu butonu seçtiğinizde üretim süresi sayımı durur. Mola verdiğinizde burayı işaretleyip, sürenin kaç dakika olduğunu sistem otomatik olarak hesaplar. Devam et dediğinizde, süre üretim süresinden kaldığı yerden devam eder.
+**Mola Ver:** Bu butonu seçtiğinizde üretim süresi sayımı durur. Mola verildiğinde burası işaretlenir, mola süresinin kaç dakika olduğunu sistem otomatik olarak hesaplar. Devam et dediğinizde, süre, üretim süresinden kaldığı yerden devam eder.
 
 **Bitir:** Bu butona bastığınızda üretim hareket ekranı açılır. Bu ekranda, üretim hareketlerinde sisteme kaydedilenden farklı bir işlem gerçekleştiyse müdahale edebilirsiniz.
 
@@ -61,10 +61,11 @@ Personel, Sipariş Hareketi, Stok, İş Emri, Operasyon, Makine, Reçete, Son Op
 Aynı şekilde, makine saatte 11 ürün üretmişse mamul miktarını da değiştirebilirsiniz. 
 
 -Ham madde kullanımı, tanımlanan miktarın üzerinde ya da altında gerçekleşmişse, ham madde miktarını buradan güncelleyebilirsiniz.  
--Operasyon sırasında çalışan personellerin bilgilerini de ekleyebilirsiniz. Personel listesinden o operasyonda çalışanları seçerek işlem yapabilirsiniz.  
--Üretim süreçlerindeki saatlerde yanlışlık veya eksiklik fark ederseniz, bu bilgileri de güncelleyebilirsiniz.  
+-Operasyon sırasında çalışan personellerin bilgilerini ekleyebilirsiniz. Personel listesinden o operasyonda çalışanları seçerek işlem yapabilirsiniz.  
+-Üretim süreçlerindeki saatlerde yanlışlık veya eksiklik fark ederseniz, bu bilgileri güncelleyebilirsiniz.  
 -Üretim sırasında duraklama olmuşsa, duraklama nedenini bu ekrandan girebilirsiniz.  
--Operasyona ait açıklamaları da Üretim Açıklama kısmına ekleyebilirsiniz. Bu sayede üretim süreçlerinin daha doğru ve verimli bir şekilde yönetilmesi sağlanır.  
+-Operasyona ait açıklamaları Üretim Açıklama kısmına ekleyebilirsiniz.
+ Bu sayede üretim süreçlerinin daha doğru ve verimli bir şekilde yönetilmesi sağlanır.  
 -Gelişmiş -> Atlandı: Terminal ekranında "atlamak", üretim sürecinde belirli bir aşamadan diğerine geçişi ifade eder. Örneğin, bir işçi veya yönetici, üretim aşamalarını takip ederken, belirli bir adımdan diğerine geçmek için bu özelliği kullanabilir. Üretim aşamasının atlandığını ya da tamamlandığını göstermek için tercih edilir.
 
 Verileri kontrol ettikten sonra *Kaydet* butonuna basarak üretim operasyonu *Kaydet* işlemini tamamlayabilirsiniz.
@@ -94,7 +95,7 @@ Bu sistem, anlık verilerin canlı olarak görüntülenmesine yardımcı olur ve
 **Aaro Hesabı:** Oturum açma hesap bilgilerini belirtir. Sisteme girdiğiniz her adın yanına sistem otomatik olarak "@aaro.com.tr" ekler.
 
 Örneğin: "ayse" yazdığınızda, sistem otomatik olarak "ayse@aaro.com.tr" adresini verir ve bu adres ile giriş yapabilirsiniz.   
-Telefon: Kullanıcının telefon numarasını giriniz. Bu numara, ikinci güvenlik adımı ve şifre sıfırlama işlemleri için gereklidir.
+**Telefon:** Kullanıcının telefon numarasını giriniz. Bu numara, ikinci güvenlik adımı ve şifre sıfırlama işlemleri için gereklidir.
 
 **e-Posta:** Kullanıcının kullandığı e-posta adresini giriniz.
 

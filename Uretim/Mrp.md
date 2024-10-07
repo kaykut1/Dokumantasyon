@@ -2,7 +2,7 @@
 # MRP Malzeme Gereksinim Planlaması 
 
 Bir üretim işletmesinin üretim süreçlerini düzenlemek ve malzeme ihtiyaçlarını doğru bir şekilde tahmin etmek için kullanılan bir planlama ve envanter yönetimi tekniğidir.  
-MRP, belirli bir ürünün üretimeniz için hangi malzemelerin ne zaman ve ne kadarının gerektiğini belirlemeye yardımcı olan bir sistemdir.
+MRP, belirli bir ürünü üretmeniz için hangi malzemelerin ne kadarının ne zaman gerektiğini belirlemeye yardımcı olan bir sistemdir.
 
 - Üretilecek ürünlerin bileşenleri (malzemeleri) belirlenir.
 - Ürünlerin talep edilen miktarları ve üretim süreçlerinde hangi malzemelerin ne kadarının gerektiği belirlenir.

@@ -52,8 +52,8 @@ Operasyonu silme işlemi, artık kullanılmayan veya yanlışlıkla kaydedilmiş
 Yeni bir ham madde eklemek için bu seçeneği tıklarsınız. Bu durumda, eklemek istediğiniz ham maddeye ait bilgileri girersiniz.
 Detaylı bilgi için tıklayınız. [Ham madde Ekle](../Uretim/Ham maddeEkle.md)
 
-## mamul Ekle
+## Mamul Ekle
 
-mamul eklemek, bir ürünün üretim reçetesine yeni bir mamul veya ürünün eklenmesidir. 
+Mamul eklemek, bir ürünün üretim reçetesine yeni bir mamul veya ürünün eklenmesidir. 
 Bu, üretim sürecinde kullanılacak malzemelerin, adımların ve miktarların belirlenmesini sağlar.
 Detaylı bilgi için tıklayınız. [mamul Ekle](../Uretim/MamulEkle.md)

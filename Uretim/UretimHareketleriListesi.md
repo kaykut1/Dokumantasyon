@@ -15,12 +15,13 @@ SayfaTipi: Liste
 ### Tanım
 
 Üretim hareketleri listesi, işletmemizde üretim sürecinde gerçekleşen tüm hareketleri içeren detaylarını gösteren bir listelemedir.  
-Bu liste, üretim işlemleri, iş emri numarası,operasyon, makine, mamulün üretim hareketleri, sürelerini ve diğer üretimle ilgili faaliyetleri içerebilir.   
-İstediğimiz tarih, iş emri numarası, operasyon, makine gibi filtrelemeler yaparak istediğimiz verilere kolayca erişim sağlayabiliriz.  
-Üretim hareketlerine tıklayarak detaylarına erişebiliriz, düzenleme sağlayabiliriz.  
-Hareket için eklenmiş görselleri, belgeleri ve notları görüntüntüleyebiliriz.  
-Hareket kayıtlarını giren yetkiliyi görebiliriz.  
-İş Emrine, Reçete Diyagramına, üretim planlamasına kolayca erişim sağlayarak düzenlememiz gereken bilgileri düzenleyebiliriz.
+Bu liste, üretim işlemleri, iş emri numarası, operasyon, makine, mamulün üretim hareketleri, süreleri ve üretimle ilgili diğer faaliyetleri içerebilir.   
+
+- İstediğimiz tarih, iş emri numarası, operasyon, makine gibi filtrelemeler yaparak istediğimiz verilere kolayca erişim sağlayabiliriz.  
+- Üretim hareketlerine tıklayarak detaylarına erişebiliriz, düzenleme sağlayabiliriz.  
+- Hareket için eklenmiş görselleri, belgeleri ve notları görüntüleyebiliriz.  
+- Hareket kayıtlarını giren yetkiliyi görebiliriz.  
+- İş Emrine, Reçete Diyagramına, üretim planlamasına kolayca erişim sağlayarak düzenlememiz gereken bilgileri düzenleyebiliriz.
 
 ### Ek Özellikler 
 
@@ -46,22 +47,22 @@ Hareket kayıtlarını giren yetkiliyi görebiliriz.
 
 ## İş Emri 
 
-Üretim hareketimizi*Kaydettikten sonra karşımıza çıkan ekranın sağ üst köşesinden erişim sağlayabiliriz.  
+Üretim hareketimizi  kaydettikten sonra,  karşımıza çıkan ekranın sağ üst köşesinden erişim sağlayabiliriz.  
 İş emrimizi görüntüleyebilir, çıktı alabilir, hızlı düzeltmeler yapabilir, planını görebilir ve tekrardan planlayabiliriz.  
 İş Emri kullanım detayları için tıklayınız. [İş Emri](../Uretim/IsEmri.md)
 
 ## Reçete Diyagramı
 
-Üretim hareketimizde yaptığımız/yapacağımız işlemlerin **reçete diyagram** görüntüsüne sağ üst köşesinden erişim sağlayabiliriz.  
+Üretim hareketimizde yaptığımız/yapacağımız işlemlerin **reçete diyagram** görüntüsüne sağ üst köşeden erişim sağlayabiliriz.  
 
-Reçete Diyagramımızı görüntüleyebilir, düzenlemeler yapabilir, operasyon, mamul, yarı mamul, ham madde ekleyebiliriz. 
-Yanlış olan ham madde, operasyon, yarı mamul, mamulleri silebiliriz.  
+Reçete Diyagramımızı görüntüleyebilir, düzenlemeler yapabilir, operasyon, mamul, yarı mamul, ham madde ekleyebiliriz.  
+Yanlış olan ham madde, operasyon, yarı mamul ve mamulleri silebiliriz.  
 Reçete düzenlemelerimizi buradan yapabiliriz.
 Reçete düzenleme kullanım detayları için tıklayınız. [Recete Diyagramı](../Uretim/ReceteDiyagrami.md)
 
 ## Üretim Planı 
 
-Üretim hareketimizde yaptığımız işlemlerin üretim planına sağ üst köşesinden erişim sağlayabiliriz.  
+Üretim hareketimizde yaptığımız işlemlerin üretim planına sağ üst köşeden erişim sağlayabiliriz.  
 Üretim planı ekranımızda makine işlerimizi, makine yoğunluklarımızı görüntüleyebilir, iş planlamamızı yapabiliriz.   
 
 Üretim planı kullanım detayları için tıklayınız. [Üretim Planı](../Uretim/Planlama.md)

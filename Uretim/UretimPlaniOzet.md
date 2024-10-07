@@ -9,19 +9,19 @@ SayfaTipi: UretimPlaniToplam
 
 ### Ulaşım
 
-- Sol menüden Üretim -> Listeler -> Üretim Planı Özet şeklinde ulaşım sağlayabilirsiniz.
+- Sol menüden *Üretim -> Listeler -> Üretim Planı Özet* şeklinde ulaşım sağlayabilirsiniz.
 
 ### Tanım
 
 Üretim planı, belirli tarihlerde üretilecek ürünler için makinelerin iş gücü takvimini içerir.  
 Amaç, makine verimliliğini artırmak, makine doluluk oranlarını dengelemek ve işlerin zamanında planlanmasını sağlamaktır.
 
-Makinedeki iş yoğunluğu ifade eder.   
+Makinedeki iş yoğunluğunu ifade eder.   
  Makinenin doluluk oranını % kısmından anlayabilir, makine yükünü azaltarak işleri hızlandırabiliriz.  
 - Çok dolu makineler kırmızı ile gösterilmektedir.
-- Doluluk oranı artmaya başlayan yüzdelik oranını geçmiş makineler biraz daha açık kırmızı ile gösterilir.  
+- Doluluk oranı artmaya başlayan yüzdelik oranını geçmiş makineler daha açık kırmızı ile gösterilir.  
 - Dolmak üzere olan makineler yeşil renkle gösterilir.  
-- Dolulukları az olan normal seviyede olan makineler mavi renkle gösterilir.  
+- Dolulukları az ya da normal seviyede olan makineler mavi renkle gösterilir.  
 - Doluluk oranları en az olan makineler ise açık mavi ile gösterilir.
 
 Bu oranları görüntüleyerek kolayca makine doluluk oranlarımızı görüntüleyebiliriz.   
