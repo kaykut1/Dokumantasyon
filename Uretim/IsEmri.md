@@ -35,7 +35,7 @@ Her bir görevin sorumluluğu ve beklentiler net bir şekilde tanımlanmalıdır
 İşin ne zaman başladığını, hangi aşamalarda olduğunu ve ne zaman tamamlandığını takip etmek için iş emri üzerinde güncel veriler tutulmalıdır.
 İş emri, yetkilendirilmiş kişiler tarafından onaylanmalıdır. Onay süreci, iş emrinin doğruluğunu ve uygunluğunu sağlamak için önemlidir.
 
-[Yeni İş Emri](../Uretim/YeniIsEmri.md) tıklayarak Yeni iş emri ekleme detaylarına ulaşabiliriz.
+[Yeni İş Emri](../Uretim/YeniIsEmri.md)ne tıklayarak Yeni iş emri ekleme detaylarına ulaşabiliriz.
 
 **Reçete hızlı düzenleme**, üretim sürecinde kullanılan bir ürün reçetesindeki bilgileri hızlı ve kolay bir şekilde güncelleyebileceğimiz işlemdir.  
 Bu işlem, reçetede yer alan malzemeler, miktarlar ve operasyonlarla ilgili bilgileri hızlıca düzenlemeye yardımcı olur. 

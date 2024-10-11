@@ -9,15 +9,19 @@ SayfaTipi: HizliUretimKalem
 
 ### Ulaşım
 
-- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Uretim Hareketi" şeklinde aratarak ulaşım sağlayabilirsiniz.
+- Sol menüde, Aaro kullanıcı bilgilerinin hemen altında yer alan arama motorundan "Üretim Hareketi" şeklinde aratarak ulaşım sağlayabilirsiniz.
 - Sol menüden *Üretim -> Hareketler -> Hızlı Üretim Hareketi Girişi* şeklinde ulaşım sağlayabilirsiniz.
 
 ### Tanım
 
 Üretim süreçlerinde gerçekleşen her aşama bir üretim hareketidir. Bunlar karıştırma, başlama, durma gibi eylemlerde birer harekettir.
-Üretim aşamasında iki çeşit yöntem mevcuttur birincisi, manuel giriş yapmak diğeri ise canlı üretim hareketidir.  
+Üretim aşamasında iki çeşit yöntem mevcuttur. 
+  
+  Birincisi canlı üretim takibi, ikincisi ise manuel giriştir.  
+
 Canlı üretim hareketinde işlem operasyon yapılırken üretim hattında yapılan her hareketin anında işlenmesidir.  
 Operasyona başlandığında başla seçeneğini ile başlamak, arıza olduğunda duraklama işlemi bittiğinde bitire basarak süreleri sistemin otomatik hesaplamasını ve canlı takip yapabilmektir.
+
 Manuel giriş ise işlem bittikten sonra verilerin sisteme manuel olarak girilmesidir.
 Çalışan personellerin isimleri, ne kadar mola verildi, işlem neden durdu, operasyon ne kadar sürede bitti vb manuel olarak girilmesidir.
 
@@ -40,19 +44,19 @@ Reçetesiz hızlı hareket girmek için kullanılır.
 
 **Açıklama:** Üretime ait açıklamalar girebiliriz. Açıklama kullanım detayları için linke tıklayınız. [Açıklama](../TemelOzellikler/Aciklama.md)
 
-**İşçilik/Saat** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
+**İşçilik/Saat:** Operasyonda çalışan işçinin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [İşçiliyet Maliyeti](../Uretim/IscilikMaliyeti.md)
 
 **Çalışma Mal/Saat** Operasyonda çalışan işçi, makine, elektrik gibi giderlerin saatlik ücretini ifade eder. Maliyet hesaplaması detayları için tıklayınız. [Birim Maliyeti](../Uretim/BirimMaliyeti.md)
 
-**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir.Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
+**Döviz:** Bu işlemin çalıştığı döviz cinsini belirtir. Türk lirası haricinde başka bir döviz seçildiğinde sadece o döviz cinsinden hareket işlenmesine izin verir. 
 	Üretim işleminin bakiyesi seçilen döviz cinsinden takip edilir.
 
 İşlemler dışında ham madde ya da mamul eklemesi yapıldığında buradan hareket girişi yapılmalıdır. 
 Burada işlemler aynı fakat buradan ham madde ve mamul girişi ekleyebilirsiniz.
 
-### mamuller
+### Mamuller
 
-**mamul Adı** mamulün adını giriniz.
+**Mamul Adı** Mamulün adını giriniz.
 
 **Miktar** Kullanılan miktar, kaç adet kullanıldığını giriniz.
 
@@ -100,14 +104,14 @@ Nedeni seçelim, alt kısmına da açıklamasını girelim. Makine arıza detayl
 
 ## Üretim Açıklama
 
-Üretime ait özel bir açıklamaları burada belirtebiliriz.
+Üretime ait özel açıklamaları burada belirtebiliriz.
 
 # *Kaydet* butonuna basarak Kaydetme işlemimizi tamamlayabiliriz.
 
 Kaydetme işlemimizi tamamladıktan sonra iş emrimiz, reçetemiz, üretim planımız tamamlanmış olacaktır. 
 Karşımıza gelen ekranda kayıt ettiğimiz bilgilerden farklı olarak Atlandı seçeneği ve kayıt bilgileri bulunmaktadır.  
 Üretim hareketimize belge ve not ekleyebiliriz. Üretim hareketine ait görseller, dokümantasyonlar var ise buraya ekleyebiliriz.  
-Bu şekilde üretim hareketine giren herkes bu belgeleri görüntüleyereke erişim kolaylığı sağlayarak verilerin kaybolmasını önler.
+Bu şekilde üretim hareketine giren herkes bu belgeleri görüntüleyerek erişim kolaylığı sağlayarak verilerin kaybolmasını önler.
 
 **Atlandı:** Üretim hareketi ekranında atlamak, üretim sürecinde belirli bir adıma geçişi ifade eder. 
 

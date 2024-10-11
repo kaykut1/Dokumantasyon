@@ -39,7 +39,7 @@ Bu, malzeme hataları nedeniyle oluşan fire olarak tanımlanır.
 Örneğin, hatalı kesim, yanlış montaj veya yetersiz kontrol süreçleri bu tür firelere yol açar.
 
 **Tasarım Hataları:** Ürün tasarımındaki eksiklikler veya hatalar, üretim sırasında fire oluşmasına neden olabilir.  
-Yanlış ölçüler, karmaşık montaj gereksinimleri veya uygunsuz malzeme seçimi gibi faktörler bu tür firelere katkıda bulunur.
+Yanlış ölçüler, karmaşık montaj gereksinimleri veya uygunsuz malzeme seçimi gibi faktörler bu tür firelere yol açabilir.
 
 **Operasyonel Hatalar:** Üretim planlamasında yapılan hatalar, yanlış üretim sırası veya aşırı üretim gibi nedenlerle de fire oluşabilir.  
 Bu tür hatalar, üretim süreçlerinin verimsiz çalışmasına ve israfın artmasına yol açar.

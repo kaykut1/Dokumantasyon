@@ -70,7 +70,7 @@ Nedeni seçelim alt kısmına da açıklamasını girelim. Makine arıza detayla
 
 ### *Kaydet* butonuna basarak Kaydetme işlemimizi tamamlayabiliriz.
 
-Kaydetme işlemimizi tamamladıktan sonra iş emrimiz, reçetemiz, üretim planımız tamamlanmış olacaktır. 
+Kaydetme işlemimizi tamamladıktan sonra iş emrimiz, reçetemiz ve üretim planımız tamamlanmış olacaktır. 
 Karşımıza gelen ekranda kaydettiğimiz bilgilerden farklı olarak Atlandı seçeneği ve kayıt bilgileri bulunmaktadır.  
 Üretim hareketimize belge ve not ekleyebiliriz. Üretim hareketine ait görseller, dokümantasyonlar var ise buraya ekleyebiliriz.  
 Bu şekilde üretim hareketine giren herkes bu belgeleri görüntüleyereke erişim kolaylığı sağlayarak verilerin kaybolmasını önler.

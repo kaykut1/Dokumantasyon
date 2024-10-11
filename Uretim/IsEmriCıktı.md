@@ -13,7 +13,7 @@
 
 - Açılan pencerenin en alt kısmında kutucuklar yer almaktadır. 
 - **Kırmızı**, üretime başlanmamış iş emrini ifade eder.
-- **Sarı**, devam eden ya da yarım kalan tamamlanması gereken iş emrini ifade eder.
+- **Sarı**, devam eden ya da yarım kalan ve tamamlanması gereken iş emrini ifade eder.
 - **Yeşil**, üretimi tamamlanmış olan iş emrini ifade eder.
 
 **Üretime ait detaylı iş emrinin çıktısını almak için;**

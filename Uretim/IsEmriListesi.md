@@ -18,8 +18,8 @@ SayfaTipi: Liste
 [İş Emri](../Uretim/IsEmri.md),  bir işin yapılması için çalışanlara veya birimlere verilen talimatlardır.  
 İş emri bir işin ne zaman, nerede, nasıl ve kim tarafından yapılacağını belirtir.
 İş emirlerimizin hareketlerini, iş emirlerimizi, reçete isimlerini, iş emri numaralarını, tarihlerini, miktarlarını, üretilen miktarlarını, planlamanın gerçekleştiği gibi detayları görüntüleyebiliriz.  
-İş emirlerine tıklayarak detaylarına erişebilir, değişik yapabilir, sipariş detaylarını görüntüleyebiliriz.  
-Kısayollardan reçete Diyagramına erişebilir, üretim hareketlerini, fiili gerçekleşen üretim maliyeti, iş emir için gerekli stok durumunu görüntüleyebiliriz.  
+İş emirlerine tıklayarak detaylarına erişebilir, değişiklik yapabilir, sipariş detaylarını görüntüleyebiliriz.  
+Kısayollardan Reçete Diyagramına erişebilir, üretim hareketlerini, fiili gerçekleşen üretim maliyeti, iş emir için gerekli stok durumunu görüntüleyebiliriz.  
 Kayıt bilgilerinden oluşturan kişiyi, oluşturma tarihlerini görüntüleyebiliriz.  
 Yeni iş emri ekleyebiliriz. İş emri oluşturma detaylarına linkten erişebilirsiniz. [Yeni İş Emri](../Uretim/YeniIsEmri.md)
 

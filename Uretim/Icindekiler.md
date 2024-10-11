@@ -23,10 +23,10 @@ SayfaTipi: Modul
 ### Üretim Hareketleri
 
 - [Üretim Hareketi Hızlı Aç](../Uretim/UretimHareketiHizliAc.md)
-- [Üretimden mamul Giriş](../Uretim/UretimdenMamulGiris.md)
-- [Üretime Ham madde Çıkışı](../Uretim/UretimeHam maddeCikisi.md)
+- [Üretimden Mamul Giriş](../Uretim/UretimdenMamulGiris.md)
+- [Üretime Ham madde Çıkışı](../Uretim/UretimeHammaddeCikisi.md)
 - [Hızlı Üretim Hareketi Girişi](../Uretim/HizliUretimHareketi.md)
-- [Hızlı Üretim Hareketi Girişi (Sadece Iscilik)](../Uretim/HizliUretimHareketiGirisiSadeceİscilik.md)
+- [Hızlı Üretim Hareketi Girişi (Sadece İşçilik)](../Uretim/HizliUretimHareketiGirisiSadeceİscilik.md)
 
 ### Kartlar 
 
@@ -46,8 +46,8 @@ SayfaTipi: Modul
 - [İş Emri Listesi](../Uretim/IsEmriListesi.md)
 - [Makine Arıza Kaydı Listesi](../Uretim/MakineArizaKaydiListesi.md)
 - [Üretim Hareketi Çalışan Personel](../Uretim/UretimHareketiCalisanListesi.md)
-- [Üretim Hareketi Kullanılan Ham madde](../Uretim/UretimHareketiKullanilanHam madde.md)
-- [Üretim Hareketi Üretilen mamul](../Uretim/UretimHareketiUretilenMamul.md)
+- [Üretim Hareketi Kullanılan Ham madde](../Uretim/UretimHareketiKullanilanHammadde.md)
+- [Üretim Hareketi Üretilen Mamul](../Uretim/UretimHareketiUretilenMamul.md)
 
 ### Raporlar
 
@@ -60,7 +60,7 @@ SayfaTipi: Modul
 	- Operasyon Bazında Kullanım (Makine,mamul)
 	- Operasyon Bazında Üretim (Makine,mamul)
 	- Reçete Üretim Maliyetleri
-	- Üretim Geçiçi Günlük Üretim
+	- Üretim Geçici Günlük Üretim
 	- Üretim Giriş Çıkış Listesi
 	- Üretim Operasyon Makine Planı
 	- Üretim Operasyon Makine Planı Toplam
@@ -81,7 +81,7 @@ SayfaTipi: Modul
 	- Tarihlere Göre Üretilecekler Listesi
 	- Üretim Planı Toplam Saat
 	- Üretim Toplam Saat
-	- Üretimi Planlanan mamul Listesi
+	- Üretimi Planlanan Mamul Listesi
 
 
 ### Parametreler

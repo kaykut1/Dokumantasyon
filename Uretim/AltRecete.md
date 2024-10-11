@@ -7,7 +7,7 @@ Alt reçete, ana üretim sürecinin bir parçası olan ve daha küçük bileşen
 
 Alt reçeteler, her bir alt yarı mamulün üretiminde hangi malzemelerin, parçaların ve işçilik işlemlerinin kullanılacağını belirtir.  
 Bu reçeteler, üretim sürecinin her aşamasında ihtiyaç duyulan kaynakların planlanmasına ve yönetilmesine yardımcı olur.  
-Alt reçeteler karmaşık reçetelerin sadeleştirerek daha anlaşılır hale getirerek ana reçeteye iş emri verilerek tüm alt reçetelerine de iş emri oluşturulur. 
+Alt reçeteler karmaşık reçeteleri sadeleştirerek daha anlaşılır hale getirir; ana reçeteye iş emri verilerek tüm alt reçetelerine de iş emri oluşturulur. 
 
 İş emri verildiğinde, o reçeteye ait alt reçetelere de otomatik olarak iş emri atanır ve bu sayede stoklar alt reçetelerle birlikte güncellenir.  
 Alt reçete kullanımı, özellikle yarı mamulün birden fazla nihai ürünün üretiminde kullanılacağı durumlarda tercih edilir. 
@@ -35,9 +35,9 @@ mamul Bilgileri kısmına geçelim; ilk yarı mamulümüz kalem minesi olduğu i
 *mamul: Kalem Minesi -> Miktar: 10 -> Açıklama* ve *Ek Maliyet* bilgilerini dolduralım.  
 Ham madde bilgileri kısmına geçelim;
 
-Ham madde: Grafit -> Miktar, Birim Fiyatı, Açıklama kısımlarını dolduralım.  
+**Ham madde:** Grafit -> Miktar, Birim Fiyatı, Açıklama kısımlarını dolduralım.  
 Operasyon Bilgileri kısmına geçelim;  
-Operasyon: Karışım -> Kullanacağımız makineyi seçelim -> Çalışacak işçi adedi, hazırlık süresi, üretim süresi gibi bilgileri girelim.  
+**Operasyon:** Karışım -> Kullanacağımız makineyi seçelim -> Çalışacak işçi adedi, hazırlık süresi, üretim süresi gibi bilgileri girelim.  
 Gelişmiş kısmında, Şirket-Şube seçimimizi yapalım ve şarj kg bilgisini ekleyelim.
 Kaydet diyerek reçete taslağımızın ilk aşamasını tamamlayalım.
 Reçetemizi detaylandırmaya devam edelim:
@@ -50,7 +50,7 @@ Kalem minelerini hazırladıktan sonra, bunları lata ile bir yapıştırıcı y
 
    Şimdi, *lata*'yı reçetemize tanımlayalım.
 
-Yarı mamulümüz kalem minesi olarak görünüyor, **mamul Düzelt** diyerek adını güncelleyelim.
+Yarı mamulümüz kalem minesi olarak görünüyor, **Mamul Düzelt** diyerek adını güncelleyelim.
 Lata ve kalem minesini birleştireceğimiz birleştirme operasyonunu ekleyelim:  
 Kalem minesine tıklayalım -> Operasyon Ekle Öncesi -> Operasyonumuzu girelim.
 
@@ -61,11 +61,11 @@ Birleştirme aşamasından sonra, lata tabakası üzerindeki yapıştırıcı ku
  Bunu bir operasyon olarak tanımlayalım:
 
 Yarı mamule tıklayalım -> Operasyon Ekle -> Operasyonumuzu ekleyelim.  
-Yarı mamul adımızı düzeltelim; üzerine tıklayalım -> mamul Düzelt -> Fırınlanmış Lata olarak güncelleyelim.  
+Yarı mamul adımızı düzeltelim; üzerine tıklayalım -> Mamul Düzelt -> Fırınlanmış Lata olarak güncelleyelim.  
 Bu aşamadan sonra latalara şekil verme operasyonumuzu tamamlayalım:
 
 Yarı mamul -> Operasyon Ekle -> Operasyonumuzu ve makinemizi seçelim.
-Oluşan yarı mamul adımızı değiştirelim; mamul Düzelt diyerek Kurşun Kalem olarak tanımlayalım.
+Oluşan yarı mamul adımızı değiştirelim; Mamul Düzelt diyerek Kurşun Kalem olarak tanımlayalım.
 
 Kurşun kalem reçetemizi tamamladık. Şimdi alt reçete bölme işlemini gerçekleştirelim:
 
